@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: myfacebook
 twitter: mytwitter
-instagram: _http.yusif
+instagram: _https.yusif
 linkedin: mylinkedin
 github: nearfight0
 email: mirzabeyliler@gmail.com
@@ -46,7 +46,7 @@ authors:
     name: Yusif Mirzəbəyli
     bio: A Teen who holding the key to life...
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/dollify.png
     instagram: _https.yusif
   jamesfoster:
     name: Bot.H
@@ -58,7 +58,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:

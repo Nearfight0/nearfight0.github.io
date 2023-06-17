@@ -30,7 +30,7 @@ There are many online courses on the internet. Some courses are free, while othe
 
 ## Use the library
 
-![Library](/assets/images/library_ai.jpeg)
+![Library](/assets/images/library.jpeg)
 
 If you don't want to choose a course, you can always find books and tutorials at the library. Some books are in English, while some times, you can find materials in your local language.
 

@@ -26,7 +26,7 @@ We are a group of friends who are taking our first steps into the world of progr
 
 Before diving into the project, we defined our requirements and objectives. We planned to develop an ATM application that would validate account information by requesting the user's card number and PIN, and perform basic operations such as balance inquiries, withdrawals, and deposits.You can check out our project :
 
-<iframe height="500px" width="100%" src="https://replit.com/@Nearfight0/ATMOOPPython"></iframe>
+<iframe height="500px" width="100%" src="https://replit.com/@Nearfight0/ATMOOPPython?embed=true"></iframe>
 
 
 

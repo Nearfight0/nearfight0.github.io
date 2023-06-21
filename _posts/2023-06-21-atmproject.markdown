@@ -12,7 +12,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "You Should Check This Out!!!"
 category: project
-author: johndoe
+author: yusifmirzebeyli
 externalLink: false
 ---
 

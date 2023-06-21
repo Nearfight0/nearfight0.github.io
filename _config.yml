@@ -34,10 +34,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+twitter: sleuth_0
 instagram: _https.yusif
-linkedin: mylinkedin
+linkedin: yusif-mirzebeyli-07a145237
 github: nearfight0
 email: mirzabeyliler@gmail.com
 
@@ -48,12 +47,7 @@ authors:
     external-image: false
     picture: assets/images/dollify.png
     instagram: _https.yusif
-  jamesfoster:
-    name: Bot.H
-    bio: A Bot which write posts for Blog
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

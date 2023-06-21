@@ -8,7 +8,7 @@ tag:
 - books
 - hobbies
 - extra
-category: project
+category: blog
 author: yusifmirzebeyli
 description: You should check out!
 ---

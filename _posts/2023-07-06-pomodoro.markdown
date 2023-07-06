@@ -5,9 +5,9 @@ date: 2016-02-24 22:48
 image: /assets/images/timing.jpeg
 headerImage: false
 tag:
-- technology
-- programming
-- software
+- motivation
+- productivity
+- personal growth
 category: blog
 author: yusifmirzebeyli
 description: Getting Started!!!

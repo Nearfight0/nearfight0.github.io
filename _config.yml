@@ -1,9 +1,9 @@
 # main text of home
 title: Yusif Mirzəbəyli
-bio: A Teen who holding the key to life...
+bio: Hayatın anahtarını elinde tutan bir genç...
 
 # twitter summary info
-description: A blog related to tech, books and programming...
+description: Teknoloji, kitaplar ve programlama ile ilgili bir blog...
 
 # if it's an external image, update below for true
 # better with square images
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 twitter: sleuth_0
-instagram: _https.yusif
+instagram: sleuthm
 linkedin: yusif-mirzebeyli-07a145237
 github: nearfight0
 email: mirzabeyliler@gmail.com
@@ -43,7 +43,7 @@ email: mirzabeyliler@gmail.com
 authors:
   yusifmirzebeyli:
     name: Yusif Mirzəbəyli
-    bio: A Teen who holding the key to life...
+    bio: Teknoloji, kitaplar ve programlama ile ilgili bir blog...
     external-image: false
     picture: assets/images/dollify.png
     instagram: _https.yusif

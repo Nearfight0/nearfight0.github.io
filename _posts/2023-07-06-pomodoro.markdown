@@ -1,5 +1,5 @@
 ---
-title: "Boosting Productivity with the Pomodoro Technique: A Simple Way to Make the Most of Your Time"
+title: "Boosting Productivity with the Pomodoro Technique"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg

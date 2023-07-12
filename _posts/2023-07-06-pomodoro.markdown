@@ -1,7 +1,6 @@
 ---
 title: "Boosting Productivity with the Pomodoro Technique"
 layout: post
-comments: true
 date: 2023-07-06 07:00
 image: /assets/images/timing.jpeg
 headerImage: true
